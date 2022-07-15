@@ -1,0 +1,9 @@
+.wrapper{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.title{
+    padding: 20px;
+    font-size: 30px;
+}

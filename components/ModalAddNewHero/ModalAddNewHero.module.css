@@ -1,0 +1,8 @@
+.title{
+    margin: 5px;
+}
+
+.form_wrapper{
+    display: flex;
+    flex-direction: column;
+}
